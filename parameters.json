@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "workflows_log_name": {
+            "value": "log"
+        },
+        "connections_faceapi_name": {
+            "value": "faceapi"
+        },
+        "connections_azureblob_name": {
+            "value": "azureblob"
+        },
+        "connections_faceapi_1_name": {
+            "value": "faceapi-1"
+        },
+        "connections_azureblob_1_name": {
+            "value": "azureblob-1"
+        },
+        "connections_excelonline_name": {
+            "value": "excelonline"
+        },
+        "accounts_facefp_name": {
+            "value": "facefp"
+        },
+        "storageAccounts_storageprojectss_name": {
+            "value": "storageprojectss"
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": "Application Insights Smart Detection"
+        },
+        "smartdetectoralertrules_failure_anomalies___logicproject_name": {
+            "value": "failure anomalies - logicproject"
+        },
+        "smartdetectoralertrules_failure_anomalies___logicproject202111242012_name": {
+            "value": "failure anomalies - logicproject202111242012"
+        },
+        "components_logicproject_externalid": {
+            "value": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/microsoft.insights/components/logicproject"
+        },
+        "components_logicproject202111242012_externalid": {
+            "value": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/microsoft.insights/components/logicproject202111242012"
+        }
+    }
+}
