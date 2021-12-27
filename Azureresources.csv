@@ -1,0 +1,10 @@
+SEP=,
+NAME,TYPE,LOCATION,
+"azureblob","API Connection","North Central US"
+"azureblob-1","API Connection","Central India"
+"excelonline","API Connection","North Central US"
+"faceapi","API Connection","North Central US"
+"faceapi-1","API Connection","Central India"
+"facefp","Face API","East US"
+"log","Logic app","North Central US"
+"storageprojectss","Storage account","Central India"
