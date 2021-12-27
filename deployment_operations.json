@@ -1,0 +1,302 @@
+[
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/95FC920E32ECAC43",
+    "operationId": "95FC920E32ECAC43",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:17:02.254322Z",
+      "duration": "PT4.2037273S",
+      "trackingId": "41349c39-4dc9-4664-bb01-0de8bf3ccd66",
+      "serviceRequestId": "dd1b8568-d6fd-41d6-91e9-61efd7093dce",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Storage/storageAccounts/storageprojectss/fileServices/default",
+        "resourceType": "Microsoft.Storage/storageAccounts/fileServices",
+        "resourceName": "storageprojectss/default"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/40FF374A8BD05A29",
+    "operationId": "40FF374A8BD05A29",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:17:01.381433Z",
+      "duration": "PT3.3308383S",
+      "trackingId": "49183900-d414-4cb9-aae9-31080763b5d7",
+      "serviceRequestId": "2ffd25b0-f3be-4b46-857d-de7ca8047647",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Storage/storageAccounts/storageprojectss/blobServices/default/containers/containerproject",
+        "resourceType": "Microsoft.Storage/storageAccounts/blobServices/containers",
+        "resourceName": "storageprojectss/default/containerproject"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/58A4ACBB06D33AD1",
+    "operationId": "58A4ACBB06D33AD1",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:17:01.3205017Z",
+      "duration": "PT3.7995105S",
+      "trackingId": "c70dcf12-7013-461f-9e6f-398c72c3664b",
+      "serviceRequestId": "63d322c0-afa8-44e2-b70e-d1616a841105",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/microsoft.alertsmanagement/smartdetectoralertrules/failure anomalies - logicproject",
+        "resourceType": "microsoft.alertsmanagement/smartdetectoralertrules",
+        "resourceName": "failure anomalies - logicproject"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/8EE7CE2621619036",
+    "operationId": "8EE7CE2621619036",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:17:01.2939312Z",
+      "duration": "PT1.5422195S",
+      "trackingId": "ca616a2c-7c6d-4b6e-bb4f-94a6be19c0b4",
+      "serviceRequestId": "d8430591-3428-420a-a062-e283e3297ad2",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/microsoft.alertsmanagement/smartdetectoralertrules/failure anomalies - logicproject202111242012",
+        "resourceType": "microsoft.alertsmanagement/smartdetectoralertrules",
+        "resourceName": "failure anomalies - logicproject202111242012"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/3083DBFD86C02565",
+    "operationId": "3083DBFD86C02565",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:17:01.0561479Z",
+      "duration": "PT3.0055532S",
+      "trackingId": "7641dc89-9f65-4cc1-a091-2fd7a9f5c24f",
+      "serviceRequestId": "0de86b65-98a0-4f92-9181-b3f7fc9c4525",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Storage/storageAccounts/storageprojectss/blobServices/default",
+        "resourceType": "Microsoft.Storage/storageAccounts/blobServices",
+        "resourceName": "storageprojectss/default"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/1FD0FFDBE1EBCD4E",
+    "operationId": "1FD0FFDBE1EBCD4E",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:17:00.8857669Z",
+      "duration": "PT1.6118611S",
+      "trackingId": "88f4f35f-c08a-4c16-abf6-d6042b559dc3",
+      "serviceRequestId": "northcentralus:08451581-04f5-482b-8d3f-e5b746dfd26f",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Logic/workflows/log",
+        "resourceType": "Microsoft.Logic/workflows",
+        "resourceName": "log"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/D88CC69F67472861",
+    "operationId": "D88CC69F67472861",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:59.7235093Z",
+      "duration": "PT2.2025181S",
+      "trackingId": "478ecdbb-d7bd-4432-a2f7-6abd57f782bf",
+      "serviceRequestId": "35eb2e46-04bb-4fb9-bce9-cde9ef613028",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/microsoft.insights/actionGroups/Application Insights Smart Detection",
+        "resourceType": "microsoft.insights/actionGroups",
+        "resourceName": "Application Insights Smart Detection"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/F47296045E82A783",
+    "operationId": "F47296045E82A783",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:59.2357597Z",
+      "duration": "PT1.7147685S",
+      "trackingId": "1201e844-f070-42a3-9d9c-0fba8c0828d3",
+      "serviceRequestId": "northcentralus:837b3817-6d11-4cdf-85a4-ffc0ab782dd5",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Web/connections/excelonline",
+        "resourceType": "Microsoft.Web/connections",
+        "resourceName": "excelonline"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/AB63A75F8B8BB75D",
+    "operationId": "AB63A75F8B8BB75D",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:59.234001Z",
+      "duration": "PT1.7130098S",
+      "trackingId": "1daf9b0e-649c-4d63-8346-26604a92908e",
+      "serviceRequestId": "northcentralus:08b9daee-f5c8-42c9-9bae-36a90e84e09f",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Web/connections/faceapi",
+        "resourceType": "Microsoft.Web/connections",
+        "resourceName": "faceapi"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/0AB47FDF038AA96A",
+    "operationId": "0AB47FDF038AA96A",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:59.2243248Z",
+      "duration": "PT1.7033336S",
+      "trackingId": "056b95ef-21b8-4692-a851-3355c65aa5d1",
+      "serviceRequestId": "northcentralus:a4899fa4-3db7-4e51-892a-2314fbec8c23",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Web/connections/azureblob",
+        "resourceType": "Microsoft.Web/connections",
+        "resourceName": "azureblob"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/E13A3E1E8FF429FB",
+    "operationId": "E13A3E1E8FF429FB",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:17:15.6079598Z",
+      "duration": "PT18.0869686S",
+      "trackingId": "1d2df991-2e86-49e3-8261-aad586f526d5",
+      "serviceRequestId": "2493df38-db4a-4eea-aa14-1761f86b32f2",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.CognitiveServices/accounts/facefp",
+        "resourceType": "Microsoft.CognitiveServices/accounts",
+        "resourceName": "facefp"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/914CAA0757B6CEC7",
+    "operationId": "914CAA0757B6CEC7",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:58.9948434Z",
+      "duration": "PT0.9442487S",
+      "trackingId": "a9c9f6e1-31a3-4f44-9b6d-d5b9f85846a5",
+      "serviceRequestId": "38ab9fd7-0e5c-4fa8-b546-60fc2ee4500f",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Storage/storageAccounts/storageprojectss/queueServices/default",
+        "resourceType": "Microsoft.Storage/storageAccounts/queueServices",
+        "resourceName": "storageprojectss/default"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/1D3CB62DC226797A",
+    "operationId": "1D3CB62DC226797A",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:58.3450392Z",
+      "duration": "PT0.824048S",
+      "trackingId": "17d98bcc-f6b3-4063-89c0-4507abf68361",
+      "serviceRequestId": "42e243d6-b52f-43d3-a78c-bdf8dc4b6169",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Storage/storageAccounts/storageprojectss/tableServices/default",
+        "resourceType": "Microsoft.Storage/storageAccounts/tableServices",
+        "resourceName": "storageprojectss/default"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/DFBABEFEC478633B",
+    "operationId": "DFBABEFEC478633B",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:58.2737264Z",
+      "duration": "PT0.7527352S",
+      "trackingId": "88ffda5c-c468-4d72-a521-60406a8a0b7d",
+      "serviceRequestId": "centralindia:f2a63810-6681-428f-a485-7c7f49a08688",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Web/connections/azureblob-1",
+        "resourceType": "Microsoft.Web/connections",
+        "resourceName": "azureblob-1"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/002466B8C2B8F2D1",
+    "operationId": "002466B8C2B8F2D1",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:58.215021Z",
+      "duration": "PT0.6940298S",
+      "trackingId": "ce9252ca-bd8a-4023-8e1d-0ad461a7b2c2",
+      "serviceRequestId": "centralindia:4c56f00c-c746-4dcc-ba95-86aaf3ee32cb",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Web/connections/faceapi-1",
+        "resourceType": "Microsoft.Web/connections",
+        "resourceName": "faceapi-1"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/186C31A17ABDBEA7",
+    "operationId": "186C31A17ABDBEA7",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:16:58.0118869Z",
+      "duration": "PT0.4908957S",
+      "trackingId": "eed089cd-f045-44a7-b9ef-ab258c7f0b34",
+      "serviceRequestId": "d9787759-8a60-44f9-9062-50f3a0051ff2",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Storage/storageAccounts/storageprojectss",
+        "resourceType": "Microsoft.Storage/storageAccounts",
+        "resourceName": "storageprojectss"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/f64e882c-9323-4d32-9d3a-11113551a569/resourceGroups/pro/providers/Microsoft.Resources/deployments/Microsoft.Template-20211227214655/operations/08585609850685833725",
+    "operationId": "08585609850685833725",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2021-12-27T16:17:15.7304127Z",
+      "duration": "PT0.0854691S",
+      "trackingId": "7b29c7f2-bb84-4620-8e94-489e6d9150ef",
+      "statusCode": "OK"
+    }
+  }
+]
