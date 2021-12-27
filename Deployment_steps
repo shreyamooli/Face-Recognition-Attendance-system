@@ -1,6 +1,6 @@
 The deployment steps:
 After creating entire project i.e "Facial recognition attendence application" using required resources.
-The deploy from a custom template is chosen for deployment where template file and parameters files are uploaded and hence deployment is created.
+The deploy from a custom template from azure is chosen for deployment where template file and parameters files are uploaded and hence deployment is created.
 
 The deployment code is uploaded - https://github.com/shreyamooli/final_project/blob/main/deployment.json 
 The deployment operation code is uploaded- https://github.com/shreyamooli/final_project/blob/main/deployment_operations.json
