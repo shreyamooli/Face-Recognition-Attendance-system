@@ -1,0 +1,3 @@
+The project "Facial recognition attendence system" created using face api, storage account, logic apps etc.
+The deployment is done through custom deployment template wherein the template and parameters files are uploaded and deployed successfully.
+Thus this project helps in recognising faces and adding it to database.
